@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Análise de dados
 - 🌱 I’m currently learning Big Data para Negócios
 - 📫 How to reach me: bekaalencaroliver2016@gmail.com
+- Meu Linkedin: www.linkedin.com/in/rebeka-alencar-5178bb204
 
 <!--
 **rebekaalenc/rebekaalenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
